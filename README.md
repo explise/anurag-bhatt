@@ -3,7 +3,7 @@
 - I like doing Competitive Programming.
 - I hate bugs. 🐛  ( Who doesn't xD).
 - I may update Github sometime in future till then xD.
-<img src = "https://raw.githubusercontent.com/anurag-bhatt/anurag-bhatt/main/chitanda.gif"  align = "right"> </img>
+<img src = "https://raw.githubusercontent.com/explise/explise/main/chitanda.gif"  align = "right"> </img>
 
 ## Social
 - [Codeforces](https://codeforces.com/profile/\_Anurag)
@@ -27,8 +27,8 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=anurag-bhatt&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=explise&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
 <hr>
-<img  src="http://github-readme-streak-stats.herokuapp.com/?user=anurag-bhatt&theme=dark" />
+<img  src="http://github-readme-streak-stats.herokuapp.com/?user=explise&theme=dark" />
 
  <p align = "center" > Made with 🤍 by Me. :p </p>
