@@ -3,7 +3,6 @@
 - I like doing Competitive Programming.
 - I hate bugs. 🐛  ( Who doesn't xD).
 - I may update Github sometime in future till then xD.
-<img src = "https://raw.githubusercontent.com/explise/explise/main/chitanda.gif"  align = "right"> </img>
 
 ## Social
 - [Codeforces](https://codeforces.com/profile/\_Anurag)
